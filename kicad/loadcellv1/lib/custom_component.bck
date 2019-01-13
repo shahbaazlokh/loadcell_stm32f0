@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP HX711
+D HX711 24-bit ADC for weight scales
+$ENDCMP
+#
+#End Doc Library

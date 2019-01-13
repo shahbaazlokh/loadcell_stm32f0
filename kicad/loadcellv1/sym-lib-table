@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name loadcell-rescue)(type Legacy)(uri ${KIPRJMOD}/loadcell-rescue.lib)(options "")(descr ""))
+  (lib (name custom_component)(type Legacy)(uri ${KIPRJMOD}/lib/custom_component.lib)(options "")(descr ""))
+)
